@@ -39,12 +39,12 @@ sections:
   - block: about.biography
     id: about
     content:
-      title: Biography
+      title: 
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: skills
     content:
-      title: Skills
+      title: 
       text: ''
       # Choose a user to display skills from (a folder name within `content/authors/`)
       username: admin
