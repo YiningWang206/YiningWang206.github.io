@@ -21,8 +21,8 @@ bio: From Engineering to Economics.
 # Interests to show in About widget
 interests:
   - Green innovation
-  - Technological change/Innovation economics
-  - Ecosystem evaluation/conservation
+  - Innovation economics
+  - Ecosystem evaluation
 
 # Education to show in About widget
 education:
