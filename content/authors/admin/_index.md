@@ -92,5 +92,5 @@ social:
 highlight_name: true
 ---
 
-Yining is a graduate student in Duke Kunshan University. Proud of her university and community! She has a background in environmental engineering, but currently she is more interested in economics, especially in the field of technological change.
+I am a graduate student in Duke Kunshan University. I have a background in environmental engineering, but currently I am more interested in economics, especially in the field of technological change.
 {style="text-align: justify;"}
