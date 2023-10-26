@@ -1,50 +1,38 @@
 ---
 # Display name
-title: 吳健雄
-
-# Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
-
-# Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
-
-# Status emoji
-status:
-  icon: ☕️
+title: Yining Wang
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Student
+tagline: Environmental Engineering/Policy/Economics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Duke Kunshan University
+    url: https://www.dukekunshan.edu.cn
+  
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: From Engineering to Economics.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Green innovation
+  - Technological change/Innovation economics
+  - Ecosystem evaluation/conservation
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MPP in Environmental Policy
+      institution: Duke University
+      year: 2024
+    - course: BEng in Environmental Engineering
+      institution: South China University of Technology
+      year: 2022
 
 # Skills
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -52,38 +40,34 @@ skills:
   - name: Technical
     items:
     - name: Python
-      description: ''
-      percent: 80
+      description: 'scikit-learn; pandas; selenium'
+      percent: 60
       icon: python
       icon_pack: fab
-    - name: Data Science
-      description: ''
-      percent: 100
+    - name: Stata
+      description: 'just all regressions and time series'
+      percent: 80
       icon: chart-line
       icon_pack: fas
-    - name: SQL
-      description: ''
+    - name: R
+      description: 'visualization with those unavailable by Stata and Python'
       percent: 40
-      icon: database
+      icon: r
       icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-hiking
+      - name: Baseball
+        description: 'Supporting Tohoku Rakuten Eagles #21'
+        url: https://www.rakuteneagles.jp/
+        percent: 100
+        icon: baseball
         icon_pack: fas
-      - name: Cats
+      - name: Mangrove
         description: ''
         percent: 100
-        icon: cat
-        icon_pack: fas
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera-retro
+        icon: tree
         icon_pack: fas
 
 # Social/Academic Networking
@@ -93,19 +77,16 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: 'yw513@duke.edu'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
     label: Follow me on Twitter
     display:
       header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/YiningWang206
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
@@ -114,11 +95,11 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/Yining Wang_CV_230806.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Yining is a graduate student in Duke Kunshan University. Proud of her university and community! She has a background in environmental engineering, but currently she is more interested in economics, especially in the field of technological change.
 {style="text-align: justify;"}
