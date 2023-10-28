@@ -52,7 +52,7 @@ skills:
     - name: R
       description: 'visualization with those unavailable by Stata and Python'
       percent: 40
-      icon: r
+      icon: r-project
       icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
