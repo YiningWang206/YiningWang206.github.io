@@ -7,7 +7,7 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-    name: Baseball
+  - name: Baseball
     url: '#baseball'
     weight: 20
 
