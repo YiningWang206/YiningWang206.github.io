@@ -19,7 +19,7 @@ sections:
       username: admin
     design:
       columns: '1'
-  - block: baseball
+  - block: collection
     id: baseball
     content:
       title: NPB
