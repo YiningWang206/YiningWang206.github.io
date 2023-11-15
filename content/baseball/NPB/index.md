@@ -29,4 +29,6 @@ This series aims to cover the topics below:
 - [ ] Understanding the 2023 draft
 - [ ] Predicting 2024
 
+{style="text-align: justify;"}
+
 ### Did you find this page helpful? Consider sharing it 🙌

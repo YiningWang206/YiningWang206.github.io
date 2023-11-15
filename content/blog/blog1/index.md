@@ -21,4 +21,6 @@ Essentially, energy access is reached when supply meets demand. Both under-provi
 
 Despite the fact that current experience of end-user subsidy is largely limited to date, countries are taking bolder steps to implement existing knowledge in to project adaptation. A 20 million Euro end-user subsidy project coordinated by GIZ and RVO aims to provide direct energy access for up to 1 million poorest people in the Sub-Saharan Africa by 2025, and with a close cooperation with knowledge hubs in end-user subsidy, the program strictly follows the lessons learnt in previous projects: A careful design, development and implementation in accordance with the local context to minimize market distortion.
 
+{style="text-align: justify;"}
+
 ### Did you find this page helpful? Consider sharing it 🙌
