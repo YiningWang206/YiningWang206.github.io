@@ -18,15 +18,15 @@ About me. I started to watch baseball since the 2016 Koshien. I support Kisarazu
 This series aims to cover the topics below:
 
 - Understanding the Pacific League
-  - [] Characterize each team
-  - [] What makes Orix the winner?
-  - [] Power play: Tradings, FA and MLB
+  - [ ] Characterize each team
+  - [ ] What makes Orix the winner?
+  - [ ] Power play: Tradings, FA and MLB
 - Understanding the Central League
-  - [] Characterize each team
-  - [] What makes Tigers the winner?
-  - [] Power play: Tradings, FA and MLB
-- [] Understanding the Nippon Series
-- [] Understanding the 2023 draft
-- [] Predicting 2024
+  - [ ] Characterize each team
+  - [ ] What makes Tigers the winner?
+  - [ ] Power play: Tradings, FA and MLB
+- [ ] Understanding the Nippon Series
+- [ ] Understanding the 2023 draft
+- [ ] Predicting 2024
 
 ### Did you find this page helpful? Consider sharing it 🙌

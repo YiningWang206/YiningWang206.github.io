@@ -47,12 +47,12 @@ sections:
       view: compact
       columns: '2'
   - block: collection
-    id: talks
+    id: blog
     content:
-      title: Recent & Upcoming Talks
+      title: Blogs
       filters:
         folders:
-          - event
+          - blog
     design:
       columns: '2'
       view: compact
