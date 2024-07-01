@@ -77,7 +77,7 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '\#yw513@duke.edu'
+    link: '\#ywang957@syr.edu'
   - icon: github
     icon_pack: fab
     link: https://github.com/YiningWang206
@@ -86,7 +86,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/Yining Wang_CV_230806.pdf
+    link: uploads/Yining Wang_CV.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
