@@ -56,7 +56,7 @@ sections:
     design:
       columns: '2'
       view: compact
-  - block: worklog
+  - block: collection
     id: worklog
     content:
       title: Worklog
