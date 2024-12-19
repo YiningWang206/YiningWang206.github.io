@@ -6,9 +6,12 @@
 main:
   - name: Home
     url: '#about'
-    weight: 10
+    weight: 20
   - name: Baseball
     url: '#baseball'
+    weight: 70
+  - name: Worklog
+    url: '#worklog'
     weight: 70
 
 # Link to a PDF of your resume/CV from the menu.
