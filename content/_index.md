@@ -50,12 +50,19 @@ sections:
     id: blog
     content:
       title: Blogs
+      page_type: blog
+      count: 2
       filters:
-        folders:
-          - blog
+      # Choose how many pages you would like to offset by
+      offset: 0
+      # Page order: descending (desc) or ascending (asc) date.
+      order: desc
     design:
-      columns: '2'
-      view: compact
+      # Choose a layout view
+      view: date-title-summary
+      # Reduce spacing
+      spacing:
+        padding: [0, 0, 0, 0]
   - block: collection
     id: worklog
     content:
