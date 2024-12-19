@@ -1,5 +1,5 @@
 ---
-title: 790K Energy Blogs
+title: Random blogs
 cms_exclude: true
 
 # View.

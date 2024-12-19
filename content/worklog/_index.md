@@ -1,5 +1,5 @@
 ---
-title: Posts
+title: Worklog
 cms_exclude: true
 
 # View.

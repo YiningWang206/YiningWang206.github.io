@@ -56,4 +56,14 @@ sections:
     design:
       columns: '2'
       view: compact
+  - block: worklog
+    id: worklog
+    content:
+      title: Worklog
+      filters:
+        folders:
+          - worklog
+    design:
+      columns: '2'
+      view: compact
 ---

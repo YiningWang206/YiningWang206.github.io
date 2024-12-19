@@ -1,5 +1,5 @@
 ---
-title: Powering the poorest of the poor through end-user subsidy schemes
+title: Powering the poorest of the poor through end-user subsidy schemes (Course blog)
 date: 2023-11-15
 math: true
 image:
